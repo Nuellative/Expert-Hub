@@ -1,0 +1,28 @@
+.div1{ background-color: #ffe6e6; 
+		padding: 30px; height: 1000px}
+
+
+.nav{ display: flex;
+ justify-content: space-between;  }		
+
+.img1{ width: 130px; height: 30px; border-radius: 100%}
+
+.button1{ background-color: #ff9933;
+	color: white;
+	border: 0px;
+	padding: 5px}
+
+.button2{ background-color: white;
+		 border: 0px; 
+		 padding: 5px}
+		 
+.button3{ background-color: #ffe6e6;
+border: 0px }
+
+.divbutton{ display: right;}
+
+.img2{width: 170px; height: 170px; border-radius:100%}
+
+.nav2{ display: flex;
+justify-content: space-between; align-items: center  }
+
